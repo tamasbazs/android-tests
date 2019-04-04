@@ -1,3 +1,3 @@
 # android-tests
 
-Sample App
+Sample App Readme
