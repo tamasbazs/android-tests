@@ -1,3 +1,3 @@
 # android-tests
 
-My Sample App
+My Sample App test
