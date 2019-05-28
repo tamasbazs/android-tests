@@ -1,0 +1,3 @@
+[submodule "subm"]
+	path = subm
+	url = https://github.com/tamasbazs/intro_android_demo
