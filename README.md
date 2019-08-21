@@ -1,5 +1,5 @@
 # android-tests repository
 
 Sample App
-Test commit
+Added test commits
 Updated submodule folder items
