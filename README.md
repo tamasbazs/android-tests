@@ -2,4 +2,4 @@
 
 My Sample App
 My Test commit asdf
-My Updated submodules folder item
+My Updated submodule folder item
