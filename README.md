@@ -1,5 +1,5 @@
 # android test repo
 
-Sample App
+My Sample App
 Test commit asdf
 Updated submodule folder items
