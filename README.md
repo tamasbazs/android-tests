@@ -2,4 +2,5 @@
 
 Sample App
 Test commit asdf
-Updated submodule folder item
+Updated submodule folder items
+Test
