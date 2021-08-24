@@ -1,4 +1,4 @@
-# android-test repos
+# android-test repo
 
 Sample App
 Test commit asdf
