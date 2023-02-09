@@ -69,7 +69,7 @@ workflows:
     - git-clone@4: {}
     - cache-pull@2: {}
     - script@1:
-        title: Do anything with Script step
+        title: Do anything with Script step on develop
     - install-missing-android-tools@2:
         inputs:
         - gradlew_path: "$PROJECT_LOCATION/gradlew"
