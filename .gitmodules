@@ -4,3 +4,6 @@
 [submodule "newstep"]
 	path = newstep
 	url = https://github.com/bitrise-steplib/steps-script
+[submodule "steps-script"]
+	path = steps-script
+	url = https://github.com/bitrise-steplib/steps-script
