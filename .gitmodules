@@ -1,3 +1,6 @@
 [submodule "subm"]
 	path = subm
 	url = https://github.com/tamasbazs/intro_android_demo
+[submodule "newstep"]
+	path = subm
+	url = https://github.com/bitrise-steplib/steps-script
