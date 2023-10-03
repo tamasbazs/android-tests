@@ -29,7 +29,7 @@ workflows:
             set -x
 
             # write your script here
-            echo "$asdqwe"
+            echo "This is the Develop branch"
   primary:
     description: |
       ## How to get a signed APK
