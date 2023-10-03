@@ -95,3 +95,7 @@ workflows:
         run_if: '{{getenv "BITRISEIO_ANDROID_KEYSTORE_URL" | ne ""}}'
     - deploy-to-bitrise-io@1: {}
     - cache-push@2: {}
+meta:
+  bitrise.io:
+    stack: linux-docker-android-20.04
+    machine_type_id: elite
