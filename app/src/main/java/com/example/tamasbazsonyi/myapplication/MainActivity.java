@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    // onClickLoginBtn event handler
     public void onClickLoginBtn(View v)
     {
         EditText email = (EditText) findViewById(R.id.email_txt);
