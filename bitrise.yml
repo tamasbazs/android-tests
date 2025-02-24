@@ -4,7 +4,7 @@ default_step_lib_source: https://github.com/bitrise-io/bitrise-steplib.git
 include:
   - path: trigger.yml
     branch: tamasbazs-patch-69
-    repository: git@github.com:tamasbazs/android-tests.git
+    repository: android-tests
 project_type: android
 trigger_map:
 - push_branch: "*"
