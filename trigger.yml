@@ -1,0 +1,4 @@
+trigger_map:
+- pull_request_comment: uitests
+  type: pull_request
+  workflow: cache
