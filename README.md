@@ -2,5 +2,5 @@
 
 Sample App
 Test commit
-Updated submodule folder item
+Updated submodule folder items
 
